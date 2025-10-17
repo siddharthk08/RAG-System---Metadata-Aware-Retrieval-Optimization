@@ -39,7 +39,7 @@ Thumbs.db
 .ipynb_checkpoints/
 
 # Specific folders to ignore
-data/
+
 infra/
 app/
 tests/
