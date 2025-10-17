@@ -312,9 +312,7 @@ python -m pytest tests/
 black src/ streamlit_app.py
 ```
 
-## 📄 **License**
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 **Acknowledgments**
 
@@ -323,15 +321,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Scikit-learn** for machine learning tools
 - **Streamlit** for the interactive dashboard
 
-## 📞 **Support**
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/metadata-aware-rag/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/metadata-aware-rag/discussions)
-- **Email**: your.email@example.com
-
-## 🔗 **Related Projects**
-
-- [RAG Evaluation Framework](https://github.com/example/rag-eval)
 - [Advanced Vector Search](https://github.com/example/vector-search)
 - [Metadata Processing Pipeline](https://github.com/example/metadata-pipeline)
 
