@@ -3,7 +3,6 @@
 A production-ready RAG (Retrieval-Augmented Generation) system that optimizes document retrieval using advanced machine learning techniques and metadata-aware ranking.
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 ## 🚀 **Key Features**
