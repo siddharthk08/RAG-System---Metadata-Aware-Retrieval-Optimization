@@ -38,14 +38,25 @@ Thumbs.db
 # Jupyter Notebooks
 .ipynb_checkpoints/
 
+# Specific folders to ignore
+data/
+infra/
+app/
+tests/
+
+# __pycache__ folders
+**/__pycache__/
+__pycache__/
+
+# Specific files to ignore
+run_demo.py
+test_pipeline.py
+validate_app.py
+
 # Model artifacts (keep important ones)
 artifacts/*.pkl
 artifacts/*.index
 artifacts/faiss.*
-
-# Data files (keep sample data)
-data/features.parquet
-data/re_ranked.parquet
 
 # Logs
 *.log
